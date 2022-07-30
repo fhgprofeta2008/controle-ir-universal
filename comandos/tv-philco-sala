@@ -1,4 +1,5 @@
-commands = {
+{
+"commands": {
         "off": "BU0jgxE5AuAXAQGFBuANA0AB4AMb4BcB4AMr4AMLD36hTSOjCDkC//9NI6MIOQI=",
         "on": "BTIjhRE6AuAXAQGCBuANA0AB4AMb4BcB4AMr4AMLD3mhMiOgCDoC//8yI6AIOgI=",
         "bt_youtube": "BS4jUBE7AuAXAQGABuANA0ABwBtAAUALwAFAC0ADwAHAC0AHQAPAAUALD1ahLiOiCDsC//8uI6IIOwI=",
@@ -7,4 +8,5 @@ commands = {
         "volumeDown": "JgAaABwePBwfHBweHB4dHR0eHDw9Gx0eHDwdAA0FAAAAAAAAAAAAAAAAAAA=",
         "volumeUp": "JgAaABweOx0fHBweHB4dHhweHDw7HR0eHB4dAA0FAAAAAAAAAAAAAAAAAAA=",
         "mute": "JgAaAB0dOx4cHh0dHR4cHh0dHR4cPBwePDsdAA0FAAAAAAAAAAAAAAAAAAA="
-        }
+        } 
+}
